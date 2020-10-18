@@ -2,33 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b29e5e1-f2ac-47ee-a329-4c4938ec771f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/card-list/card-list.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/card-list/card-list.style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/card/card.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/card/card.styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/search-box/search-box.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/search-box/search-box.styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search-box/search-box.styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-box/search-box.styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1j11Yo1J0NHukjaD3CfReT9dzH6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -41,6 +56,9 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -79,38 +97,70 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602956833865</updated>
-      <workItem from="1602956839901" duration="14384000" />
+      <workItem from="1602956839901" duration="14488000" />
+      <workItem from="1603047337515" duration="202000" />
+      <workItem from="1603056599763" duration="1978000" />
     </task>
+    <task id="LOCAL-00001" summary="Monsters game 4 hours on react">
+      <created>1602977110657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602977110657</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Monsters game 4 hours on react" />
+    <option name="LAST_COMMIT_MESSAGE" value="Monsters game 4 hours on react" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="42" key="#ESLint" timestamp="1602967274838">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="42" key="#ESLint/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1602967274838" />
-    <state width="1323" height="137" key="GridCell.Tab.0.bottom" timestamp="1602968499117">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1603058811371">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.0.bottom/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1602968499117" />
-    <state width="1323" height="137" key="GridCell.Tab.0.center" timestamp="1602968499117">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603058811371" />
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom" timestamp="1603058811556">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.0.center/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1602968499117" />
-    <state width="1323" height="137" key="GridCell.Tab.0.left" timestamp="1602968499116">
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603058811556" />
+    <state width="1220" height="135" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603047540679" />
+    <state width="1323" height="136" key="GridCell.Tab.0.center" timestamp="1603058811556">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.0.left/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1602968499116" />
-    <state width="1323" height="137" key="GridCell.Tab.0.right" timestamp="1602968499117">
+    <state width="1323" height="136" key="GridCell.Tab.0.center/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603058811556" />
+    <state width="1220" height="135" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603047540679" />
+    <state width="1323" height="136" key="GridCell.Tab.0.left" timestamp="1603058811556">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.0.right/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1602968499117" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1602977065876">
+    <state width="1323" height="136" key="GridCell.Tab.0.left/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603058811556" />
+    <state width="1220" height="135" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603047540678" />
+    <state width="1323" height="136" key="GridCell.Tab.0.right" timestamp="1603058811556">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1602977065876" />
+    <state width="1323" height="136" key="GridCell.Tab.0.right/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603058811556" />
+    <state width="1220" height="135" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603047540679" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1603057241899">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603057241899" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1603058793448">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603058793448" />
+    <state x="435" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1603056623164">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="435" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603056623164" />
+    <state x="435" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1603047338414" />
     <state x="492" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602977036894">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
