@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b29e5e1-f2ac-47ee-a329-4c4938ec771f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/search-box/search-box.styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-box/search-box.styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +95,7 @@
       <updated>1602956833865</updated>
       <workItem from="1602956839901" duration="14488000" />
       <workItem from="1603047337515" duration="202000" />
-      <workItem from="1603056599763" duration="1978000" />
+      <workItem from="1603056599763" duration="4816000" />
     </task>
     <task id="LOCAL-00001" summary="Monsters game 4 hours on react">
       <created>1602977110657</created>
@@ -108,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602977110657</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Monsters game 4 hours on react">
+      <created>1603058826341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603058826341</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,46 +127,46 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="42" key="#ESLint/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1602967274838" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1603058811371">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1603058824795">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603058811371" />
-    <state width="1323" height="136" key="GridCell.Tab.0.bottom" timestamp="1603058811556">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603058824795" />
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom" timestamp="1603059131789">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="136" key="GridCell.Tab.0.bottom/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603058811556" />
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603059131789" />
     <state width="1220" height="135" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603047540679" />
-    <state width="1323" height="136" key="GridCell.Tab.0.center" timestamp="1603058811556">
+    <state width="1323" height="136" key="GridCell.Tab.0.center" timestamp="1603059131789">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="136" key="GridCell.Tab.0.center/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603058811556" />
+    <state width="1323" height="136" key="GridCell.Tab.0.center/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603059131789" />
     <state width="1220" height="135" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603047540679" />
-    <state width="1323" height="136" key="GridCell.Tab.0.left" timestamp="1603058811556">
+    <state width="1323" height="136" key="GridCell.Tab.0.left" timestamp="1603059131789">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="136" key="GridCell.Tab.0.left/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603058811556" />
+    <state width="1323" height="136" key="GridCell.Tab.0.left/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603059131789" />
     <state width="1220" height="135" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603047540678" />
-    <state width="1323" height="136" key="GridCell.Tab.0.right" timestamp="1603058811556">
+    <state width="1323" height="136" key="GridCell.Tab.0.right" timestamp="1603059131789">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="136" key="GridCell.Tab.0.right/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603058811556" />
+    <state width="1323" height="136" key="GridCell.Tab.0.right/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603059131789" />
     <state width="1220" height="135" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603047540679" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1603057241899">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603057241899" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1603058793448">
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1603058903810">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603058793448" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603058903810" />
     <state x="435" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1603056623164">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="435" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603056623164" />
     <state x="435" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1603047338414" />
-    <state x="492" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602977036894">
+    <state x="492" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603058861414">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="492" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1602977036894" />
+    <state x="492" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768/-1280.0.1280.1024@0.0.1366.768" timestamp="1603058861414" />
   </component>
 </project>
